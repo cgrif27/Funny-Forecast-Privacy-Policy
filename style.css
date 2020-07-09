@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500&display=swap");
+
+nav img {
+  width: 300px;
+}
+nav {
+  text-align: center;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  width: 70%;
+  margin: 50px auto 150px auto;
+}
+
+h2 {
+  color: #f79503;
+}
+
+p {
+  color: #333;
+}
+
+#effective {
+  text-align: center;
+  color: rgb(143, 143, 143);
+  padding: 20px;
+}
